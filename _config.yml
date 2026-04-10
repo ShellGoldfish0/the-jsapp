@@ -1,7 +1,7 @@
 # _config.yml
-title: The Security Ghost
-description: Cybersecurity Studies & Destiny 2 Lore
-theme: minima
+title: THE JSapp
+description: Cybersecurity and Gaming
+theme: hacker
 
 
 include: [cybersecurity, destiny]
