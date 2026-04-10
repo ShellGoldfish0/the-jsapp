@@ -1,25 +1,10 @@
 # _config.yml
-title: "The Security Ghost | Guardian & Analyst"
-author: "Jackson Sapp"
-email: "sapp@the-jsapp.com"
-description: >
-  A blog exploring cybersecurity trends, research, and the things that I enjoy
-
-# Navigation Menu
-navigation:
-  - title: Home
-    url: /
-  - title: Cybersecurity
-    url: /cybersecurity/
-  - title: The Tower (Gaming)
-    url: /destiny/
-  - title: Resume
-    url: /assets/resume.pdf
-url: "https://shellgoldfish0.github.io" # Or your custom domain
-baseurl: "" # Keep this empty if it's your main site
-# Build settings
+title: The Security Ghost
+description: Cybersecurity Studies & Destiny 2 Lore
 theme: minima
-# plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+
+
+include: [cybersecurity, destiny]
+
+
+remote_theme: jekyll/minima
