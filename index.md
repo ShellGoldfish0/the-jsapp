@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hello, I'm [Your Name]
+# Hello, I'm Jackson
 
 <p class="subtitle">Cybersecurity Major | Dedicated Guardian | Aspiring SecOps Analyst</p>
 
@@ -11,22 +11,9 @@ title: Home
 
 ## My Mission
 
-I am focused on the intersection of complex systems, critical infrastructure defense, and threat intelligence. When I am not breaking down malware or configuring firewalls, I am diving deep into the intricate lore and challenging mechanics of Destiny 2.
+I am focused on the intersection of complex systems, critical infrastructure defense, and threat intelligence. When I am not breaking down malware or configuring firewalls, I am playing a wide variety of games (Mostly Destiny)
 
-### Featured Projects
+### Featured Blog Posts
 
-* **[Project Title 1: Home Lab Setup]** - (Link to Repo)
-    * Designed and configured a complete home networking lab running multiple isolated subnets (DMZ, Management, etc.) utilizing pfSense and Proxmox.
-* **[Project Title 2: Threat Intelligence Scripting]** - (Link to Repo)
-    * Developed Python scripts to pull and process active threat feeds from OpenCTI, automating the generation of IoC lists.
-
----
-
-### Current Musings (Latest Blog Posts)
-
-Here’s what I’ve been thinking about:
-
-{% assign posts = site.posts | limit: 3 %}
-{% for post in posts %}
-* [{{ post.title }}]({{ post.url }}) - *{{ post.date | date: "%b %d, %Y" }}*
-{% endfor %}
+1. Look at how we attempted a Rolljam style attack!
+2. View the start of our journey to beating the next day 1 raid.
