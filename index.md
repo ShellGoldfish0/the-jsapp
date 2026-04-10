@@ -5,7 +5,7 @@ title: Home
 
 # Hello, I'm Jackson
 
-<p class="subtitle">Cybersecurity Major | Dedicated Guardian | Aspiring SecOps Analyst</p>
+<p class="subtitle">Cybersecurity Major | Gamer/p>
 
 ---
 
