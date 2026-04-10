@@ -1,15 +1,15 @@
 ---
-layout: page
+layout: default
 title: The Tower
-permalink: /destiny/
+permalink: /games/
 ---
 
-# Reports from The Tower (Gaming)
+# Welcome to The Tower
 
-Lore analysis, Raid mechanics, and thoughts on the current Destiny 2 meta.
+This is my gaming blog. If the build works, you will see this text.
 
 {% for post in site.posts %}
   {% if post.categories contains "games" %}
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  * [{{ post.title }}]({{ post.url | relative_url }})
   {% endif %}
 {% endfor %}
