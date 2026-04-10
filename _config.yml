@@ -15,7 +15,8 @@ navigation:
     url: /destiny/
   - title: Resume
     url: /assets/resume.pdf
-
+url: "https://shellgoldfish0.github.io" # Or your custom domain
+baseurl: "" # Keep this empty if it's your main site
 # Build settings
 theme: minima
 # plugins
