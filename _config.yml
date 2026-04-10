@@ -1,7 +1,7 @@
 # _config.yml
 title: THE JSapp
 description: Cybersecurity and Gaming
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minima
 
 include: [cybersecurity, destiny]
 
