@@ -7,4 +7,3 @@ theme: minima
 include: [cybersecurity, destiny]
 
 
-remote_theme: jekyll/minima
