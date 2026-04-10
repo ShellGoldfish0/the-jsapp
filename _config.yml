@@ -1,0 +1,24 @@
+# _config.yml
+title: "The Security Ghost | Guardian & Analyst"
+author: "Jackson Sapp"
+email: "sapp@the-jsapp.com"
+description: >
+  A blog exploring cybersecurity trends, research, and the things that I enjoy
+
+# Navigation Menu
+navigation:
+  - title: Home
+    url: /
+  - title: Cybersecurity
+    url: /cybersecurity/
+  - title: The Tower (Gaming)
+    url: /destiny/
+  - title: Resume
+    url: /assets/resume.pdf
+
+# Build settings
+theme: minima
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
