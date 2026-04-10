@@ -2,7 +2,7 @@
 title: THE JSapp
 description: Cybersecurity and Gaming
 theme: minima
-
+future: true
 include: [cybersecurity, games]
 
 
