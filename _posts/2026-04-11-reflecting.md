@@ -40,17 +40,21 @@ The important thing that I recognized is that everyone has to have a voice, and 
 Vow was the first raid race that I participated in, and to be quite honest I am still a bit salty. For those unaware, the servers were getting hit with a hammer and there were a variety of issues, which is now why the raid races are 48 hours instead of 24. Below is the review of the encounters
 
 **Acquisition**
+
 For first encounter, we had a understanding of what we were doing in about an hour. While we knew what to do, we were unfortunatly still dealing with the server issues and ended up getting booted halfway through the encounter for about 6 hours. Once we finally cleared, no loot dropped, which we were rightfully upset about. 
 I don't have many notes for this encounter, as we went through it fairly easily minus the server issues.
 
 **The Caretaker**
+
 The Caretaker is one of the most infuriating things that has happend in my life. After clearing first, we wiped on the jumping puzzle and were put right back at first encounter. I went to a friend named Shiv, and asked for his checkpoint for second encouter. He obliged and we carried on in the fight. After three hours, The Caretaker fell but something was wrong. The music never stopped, and the encounter didn't drop any loot. While we were all confused, I decided to jump off the edge which started the wipe timer. With no revives left, we were sent back to the start of the encounter where we proceeded to spend 23 hours trying to kill him again.
 This encounter is weird to reflect on, as we managed to "clear" it fairly quickly. The issues arrived after the first kill sent us back, when morale dropped signifigantly. Kevin was struggling to kill the vandals on the side of the map, and with a tornado siren going off in the middle of the runs, it was hard to categorize the main issue other than morale itself, which leads back to having the drive to get it done.
 
 **Exhibition**
+
 At this point of the raid, we had a member have to quit. After finding a couple of LFGs who left immediatly, this is where we called it quits.
 
 **Review**
+
 Overall, morale and server issues were the culprit here. In a vaccum, I believe that with no server issues we would have cleared Vow on contest.
 
 ## King's Fall
@@ -78,18 +82,23 @@ To be completely honest, there was no prep work done for this one. We kind of ju
 RoN was the first (and only) raid day 1 that we completed, but there were still signifigant issues that should be looked back on. There was prep done for this, including a spreadsheet, catalyst farming, the whole nine yards. We will go into some of the issues though on the encounter by encounter basis.
 
 **Cataclysm**
+
 The first encounter in this raid is quite easy, and we really had no issues with it.
 
-**Scission **
+**Scission**
+
 The second encounter was easy like the first, although there were some communicaiton issues and a fundamental lack of knowledge of what was actually happening. I feel like we more stumbled into the win here, while only 1 - 2 people actually knew what was happening.
 
 **Macrocosm**
+
 At this point of the raid, some issues were starting to rear up. One member of the team had been dealing with some mental health issues, and hed not prepped or played. We had been somewhat led on by this member that everything was ok, but it started to show as the power delta grew and they started falling behind. In this encounter, I finally got an AH HA moment on Derek, when we used LMG's for the damage and were able to clear, while Derek had said we would never use them for damage ever. I also want to note that mental health takes full priority over the game, and I harbor no anger or resentment against that teammate as I can understand that thigns happen. But this does lead back to the need for better communication, as if we had a understanding of what was occuring we could have handled this better. 
 
 **Nezarec, Final God of Pain**
+
 This encounter was a wild ride. We ended up having to replace the teammate who fell behind. They were ok with this and understood. We ended up taking a pause on the encounter to get some rest, and came back and got the kill in a couple hours using Rat King. We only really had execution issues, there wasn't many issues with communication or team composition.
 
 **Review**
+
 Overall, communication was the primary issue here. We did still clear the raid, and even though this was the easiest raid race, it was still a feat to clear.
 
 ## Salvation's Edge
@@ -105,9 +114,11 @@ Overall, communication was the primary issue here. We did still clear the raid, 
 Salvation's Edge can be considered the most difficult raid by mechanics that has ever been released. It was what I would consider the penultimate test of skill, and we did not clear.
 
 **Substratum**
+
 For first encounter, we struggled for about 45 minutes on how to start the encounter. We had a lot of fun with this one, seeing the box for the first time was a fun time. We ran into encounter understanding issues, but we did end up clearing and there was not many issues on this otherwise.
 
 **Dissipation**
+
 The Herald of Finality was a major turning point for the team. We did not clear the this encounter, and this can be traced back to two primary issues:
 
 * Drive
@@ -137,4 +148,5 @@ After reviewing all of these instances, it is clear that motivation is the limit
 Make sure to keep an eye out for twitch streams at ShellGoldfish0 for some of our prep content.
 
 Thanks for reading!
+
 Jackson
