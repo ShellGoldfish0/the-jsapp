@@ -6,7 +6,7 @@ permalink: /games/
 
 # Welcome to The Tower
 
-This is my gaming blog. If the build works, you will see this text.
+This is the gaming blog. Check out some posts on Destiny 2
 
 {% for post in site.posts %}
   {% if post.categories contains "games" %}
