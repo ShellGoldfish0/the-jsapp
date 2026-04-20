@@ -5,13 +5,13 @@ title: Home
 
 # Hello, I'm Jackson
 
-<p class="subtitle">Cybersecurity Major | Gamer/p>
+<p class="subtitle">Cybersecurity Major | Gamer</p>
 
----
+
 
 ## My Mission
 
-I am focused on the intersection of complex systems, critical infrastructure defense, and threat intelligence. When I am not breaking down malware or configuring firewalls, I am playing a wide variety of games (Mostly Destiny)
+I am focused on the intersection of complex systems, critical infrastructure defense, and threat intelligence. When I am not studying or researching, im often playing games with my friends, specifically Destiny 2. 
 
 ### Featured Blog Posts
 
