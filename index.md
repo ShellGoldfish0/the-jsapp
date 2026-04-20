@@ -15,5 +15,5 @@ I am focused on the intersection of complex systems, critical infrastructure def
 
 ### Featured Blog Posts
 
-1. Look at how we attempted a Rolljam style attack!
-2. View the start of our journey to beating the next day 1 raid.
+1. [Look at how we attempted a Rolljam style attack!](https://the-jsapp.com/games/2026/04/10/the-goal.html)
+2. [View the start of our journey to beating the next day 1 raid.]()
