@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Rolling and Jamming"
+published: true
+category: work
+---
+
+
+## Background
+Vehicles are one of the most important and expensive items in our lives. They are almost a necessity when traveling is so prevalent, wether it be work, school, or just getting groceries. And vehicles are onyl getting more expensive, often a decent car sitting around 10k or more unless you find a good deal on a used car, or risk the car petering out by just driving it. With such an important and expensive item, you would think it is adequetly defended in a growing world of cyber threats. But that is where you would be wrong (probably around 90% of the time). 
+
+## Background Continued
+In 2015, Samy Kamkar made a splash at DEFCON 23 by showing off the RollJam attack. The basic explination of this attack is that the key to your car transmits a code to the car when the button is pressed. Both the car and the key carry a list holding the current and future codes. Once a code is used, it cannot be used again as it is marked off of both lists. The basis of the attack is that you prevent the vehicle from recieving a sent code, in order to "bank" the code for use. Naturally, if your car does not unlock on the first press, you will hit the button again, transmitting a second code. This is where the magic happens. The attacker transmits the first code, which unlocks the vehicle. But now, they have a code that is from the future list, and thus can unlock the car again.
+
+## What we did
+For context, signal jamming is illegal in the USA as you can impact others and possibly impact important public services. Rather than jamming, we decided to "fake jam" the car by using what can essentially be described as a faraday cage to act as a jammer.
+
+We started by analyzing the modulation that the key was using. This is for a 2017 Honda civic, and once modulation was identified we were able to utilize python and a YardStickOne (YS1) in order to build a script that could capture and replay the codes. We then put the key and YS1 into the faraday cage, and captured the signals. We were then able to replay from the computer the signals and unlock the vehicle.
+
+## How to fix it?
+One way to solve the issue is to add a timestamp to the code transmitted, and have the same clock implemented on the vehicle. If the times desync, you could face a potential issue, but we could design a way to easily re-sync them. 
+
