@@ -5,6 +5,15 @@ published: true
 category: games
 ---
 
+## Links
+1. [Background](#background)
+2. [Further Context](#what-we-are-talking-about-here)
+3. [DSC](#the-deep-stone-crypt)
+4. [VOW](#vow-of-the-disciple)
+5. [KF](#kings-fall)
+6. [VOW](#root-of-nightmares)
+3. [SE](#salvations-edge)
+4. [DP](#the-desert-perpetual)
 
 ## Background
 I started playing Destiny seriously in season of arrivals, as I was recommended to play with Zach, Alex, Brandon, Jon, Val, and Tej. I remember vividly running around underpowered on Io, as I thought since it was a higher difficulty area I would level up faster (This is NOT how it worked at all). My first introduction to the raid experience was Leviathan, where we spent a whole night learning until we eventually took down Calus. I remember exploring the underbelly finding the chests with the keys we earned, and getting my first pieces of exotic armor from that. But while that is what got me devoted to the game, I had actually played a bit of D1 and D2 beforehand. When I was signifigantly younger, there was a mission where you went into a light fading zone and hive thralls attacked you in the dark. Younger me was rightfully afraid, and I quit D1 at that point. My Brother pre-ordered D2 and I played a bit then, and even hopped back in for the laser tag weekend, which was neat. But back to arrivals, the game became my life and soul. I would wake up, grind, maybe eat and go back to sleep. While other games got mixed in, Destiny became the main focus even when it was not. While I did not participate in the DSC contest, after that point I began to engage in every new raid. While we took a stab at King's Fall, the idea of having to beat the raid twice really was not appealing, so at that point I avoided the returning legacy raids, so they will not be included here (with King's Fall as the exception).
