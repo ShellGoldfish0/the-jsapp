@@ -3,72 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jackson Sapp</title>
+    <title>Resume - [Your Name]</title>
     <style>
-        body {
+        body, html {
             margin: 0;
             padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: #f4f4f9;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            height: 100vh;
-        }
-        header {
+            height: 100%;
             width: 100%;
-            padding: 20px;
-            background: #24292e;
-            color: white;
-            text-align: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            overflow: hidden; /* Prevents double scrollbars */
         }
-        .resume-container {
-            flex-grow: 1;
-            width: 90%;
-            max-width: 1000px;
-            margin: 20px 0;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            overflow: hidden;
-            background: white;
-        }
-        iframe {
+        object, embed, iframe {
             width: 100%;
             height: 100%;
             border: none;
-        }
-        .fallback {
-            padding: 50px;
-            text-align: center;
-        }
-        .btn {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #0366d6;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 15px;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>My Resume</h1>
-        <p>View or download the full PDF version below.</p>
-    </header>
-
-    <div class="resume-container">
-        
-        <iframe src="Jackson_Sapp_Resume.pdf" type="application/pdf">
-            <div class="fallback">
-                <p>It looks like your browser doesn't support embedded PDFs.</p>
-                <a href="resume.pdf" class="btn" download>Download Resume (PDF)</a>
-            </div>
-        </iframe>
-    </div>
+    <!-- Ensure your file is named 'resume.pdf' or change the name below -->
+    <object data="Jackson_Sapp_Resume.pdf" type="application/pdf" width="100%" height="100%">
+        <p>Your browser does not support embedded PDFs. 
+           <a href="resume.pdf">Click here to view the PDF.</a>
+        </p>
+    </object>
 
 </body>
 </html>
